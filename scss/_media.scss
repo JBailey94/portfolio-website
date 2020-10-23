@@ -86,6 +86,7 @@
   #contact {
     &-a {
       .text-fields {
+        grid-template-columns: 1fr;
         grid-template-areas:
           "name"
           "subject"

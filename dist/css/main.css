@@ -487,6 +487,7 @@ img {
     #about-c #courses {
       max-width: 768px; }
   #contact-a .text-fields {
+    grid-template-columns: 1fr;
     grid-template-areas: "name" "subject" "email" "phone" "message"; }
   #contact-b div {
     margin-bottom: 1rem;
